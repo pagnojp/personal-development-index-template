@@ -14,6 +14,9 @@ This is a simple document that aims to list and index evidences of personal deve
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -25,6 +28,9 @@ This is a simple document that aims to list and index evidences of personal deve
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -38,6 +44,9 @@ This is a simple document that aims to list and index evidences of personal deve
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -49,6 +58,9 @@ This is a simple document that aims to list and index evidences of personal deve
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -62,6 +74,9 @@ This is a simple document that aims to list and index evidences of personal deve
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -73,6 +88,9 @@ This is a simple document that aims to list and index evidences of personal deve
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -86,7 +104,125 @@ This is a simple document that aims to list and index evidences of personal deve
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
+    </details>
+  </li>
+</ul>
+
+</br>
+<h1>2023</h1>
+<ul>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2022-11-10
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (20%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-12-11
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-11-26
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (61%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-11-02
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+   <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (20%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-10-13
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+</ul>
+
+</br>
+<h1>2022</h1>
+<ul>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js 2022</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-12-13
+      </li>
+      <li>
+        Finished: 2022-12-15
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-02-22
+      </li>
+      <li>
+        Finished: 2022-10-28
+      </li>
+    </ul>
     </details>
   </li>
 </ul>
