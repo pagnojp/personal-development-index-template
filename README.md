@@ -3,6 +3,7 @@
 This is a simple document that aims to list and index evidences of personal development. Read [this references](./docs/references.md) for aditional details.
 
 </br>
+
 <h1>Backlog</h1>
 <ul>
   <li>
@@ -257,3 +258,17 @@ This is a simple document that aims to list and index evidences of personal deve
   </li>
 </ul>
 </br>
+
+
+<hr/>
+
+</br>
+
+<strong>Examples</strong>
+
+- [Adriano Junior](https://github.com/adrianodev97/personal-development-index)
+- [Calil Amaral](https://github.com/amaralc/courses-and-bootcamps)
+- [Carlos Flach](https://github.com/carlosaflach/personal-development-index)
+- [Guilherme Irie](https://github.com/GuilhermeIrie/personal-development-evolution)
+- [Ítalo Amaral](https://github.com/ItaloRAmaral/personal-development-index)
+- [Luana Vefago](https://github.com/luanavfg/personal-development-index)
