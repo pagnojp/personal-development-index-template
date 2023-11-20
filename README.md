@@ -13,10 +13,10 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 2023-11-20
         </li>
         <li>
-          Finished:
+          Finished: 2023-11-20
         </li>
       </ul>
       </details>
@@ -33,10 +33,10 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 2023-11-20
         </li>
         <li>
-          Finished:
+          Finished: 2023-11-20
         </li>
       </ul>
       </details>
