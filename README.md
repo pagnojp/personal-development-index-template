@@ -9,7 +9,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.udemy.com/course/cypress-10-component-testing-tutorial">[Course] Cypress 10 Component Testing Tutorial</a> (0%)
+        <a href="https://www.udemy.com/course/cypress-10-component-testing-tutorial">[Course] Cypress 10 Component Testing Tutorial</a> (100%)
       </summary>
       <ul>
         <li>
