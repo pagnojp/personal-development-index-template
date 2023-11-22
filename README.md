@@ -9,29 +9,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.udemy.com/course/cypress-10-component-testing-tutorial">[Course] Cypress 10 Component Testing Tutorial</a> (100%)
+        <a href="https://learn.cypress.io/">[Course] Advanced Cypress Testing Concepts</a> (0%)
       </summary>
       <ul>
         <li>
-          Started: 2023-11-21
+          Started: 2023-11-xx
         </li>
         <li>
-          Finished: 2023-11-21
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] Scale React Development with Nx</a> (100%)
-      </summary>
-      <ul>
-        <li>
-          Started: 2023-11-20
-        </li>
-        <li>
-          Finished: 2023-11-20
+          Finished: 2023-11-xx
         </li>
       </ul>
       </details>
@@ -41,6 +26,51 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://learn.cypress.io/">[Course] Cypress - Fundamentals</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-11-22
+        </li>
+        <li>
+          Finished: 2023-11-22
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://learn.cypress.io/">[Course] Cypress - Testing Foundations</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-11-22
+        </li>
+        <li>
+          Finished: 2023-11-22
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://learn.cypress.io/">[Course] Cypress - Testing Your First Application</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-11-22
+        </li>
+        <li>
+          Finished: 2023-11-22
+        </li>
+      </ul>
+      </details>
+  </li>
   <li>
     <details> 
       <summary>
