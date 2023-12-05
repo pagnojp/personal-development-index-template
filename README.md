@@ -9,14 +9,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b">[Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (0%)
+        <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Chromatic/dp/0596004850">[Book] Extreme Programming Pocket Guide: Team-Based Software Development</a> (20%)
       </summary>
       <ul>
         <li>
-          Started: 2023-11-XX
+          Started: 2023-11-24
         </li>
         <li>
-          Finished: 2023-11-XX
+          Finished: 2023-12-XX
         </li>
       </ul>
       </details>
@@ -29,14 +29,29 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b">[Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (35%)
+        <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Chromatic/dp/0596004850">[Book] Extreme Programming Pocket Guide: Team-Based Software Development</a> (20%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-11-24
+        </li>
+        <li>
+          Finished: 2023-12-XX
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b">[Course] Confidently Testing Redux Applications with Jest & TypeScript</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 2023-11-30
         </li>
         <li>
-          Finished: 2023-11-XX
+          Finished: 2023-12-05
         </li>
       </ul>
       </details>
