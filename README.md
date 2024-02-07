@@ -9,14 +9,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Chromatic/dp/0596004850">[Book] Extreme Programming Pocket Guide: Team-Based Software Development</a> (20%)
+        <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">[Book] Software Engineering at Google</a> (10%)
       </summary>
       <ul>
         <li>
-          Started: 2023-11-24
+          Started: 2024-01-12
         </li>
         <li>
-          Finished: 2023-12-XX
+          Finished: 2024-XX-XX
         </li>
       </ul>
       </details>
@@ -29,14 +29,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Chromatic/dp/0596004850">[Book] Extreme Programming Pocket Guide: Team-Based Software Development</a> (20%)
+        <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Chromatic/dp/0596004850">[Book] Extreme Programming Pocket Guide: Team-Based Software Development</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 2023-11-24
         </li>
         <li>
-          Finished: 2023-12-XX
+          Finished: 2023-12-29
         </li>
       </ul>
       </details>
