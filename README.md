@@ -23,7 +23,27 @@ This is a simple document that aims to list and index evidences of personal deve
   </li>
 </ul>
 </br>
-
+<h1>2024</h1>
+<ul>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">[Book] Software Engineering at Google</a> (20%)
+      </summary>
+      <ul>
+        <li>
+          Chapters: 10, 11, 12, 13
+        </li>
+        <li>
+          Started: 2024-01-12
+        </li>
+        <li>
+          Finished: 2024-02-18
+        </li>
+      </ul>
+      </details>
+  </li>
+</ul>
 <h1>2023</h1>
 <ul>
   <li>
