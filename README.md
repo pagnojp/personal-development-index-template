@@ -5,23 +5,7 @@ This is a simple document that aims to list and index evidences of personal deve
 </br>
 
 <h1>Backlog</h1>
-<ul>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">[Book] Software Engineering at Google</a> (10%)
-      </summary>
-      <ul>
-        <li>
-          Started: 2024-01-12
-        </li>
-        <li>
-          Finished: 2024-XX-XX
-        </li>
-      </ul>
-      </details>
-  </li>
-</ul>
+
 </br>
 <h1>2024</h1>
 <ul>
@@ -38,7 +22,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Started: 2024-01-12
         </li>
         <li>
-          Finished: 2024-02-18
+          Finished: 2024-02-12
         </li>
       </ul>
       </details>
