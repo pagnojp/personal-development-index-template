@@ -12,6 +12,36 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="#">[Course] Clean Architecture - FullCycle</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2024-03-03
+        </li>
+        <li>
+          Finished: 2024-03-10
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Course] Arquitetura Hexagonal - FullCycle</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2024-02-24
+        </li>
+        <li>
+          Finished: 2024-03-02
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">[Book] Software Engineering at Google</a> (20%)
       </summary>
       <ul>
