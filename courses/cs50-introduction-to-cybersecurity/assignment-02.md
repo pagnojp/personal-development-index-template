@@ -37,9 +37,16 @@ To try to find possible weaknesses in your infrastructure and fix before hackers
 - Of the below HTTP status codes, which most likely suggests that a distributed denial of service (DDoS) attack may be occurring?
 
 307 Temporary Redirect
+
 404 Not Found
+
 503 Service Unavailable (X)
+
 200 OK
+
 403 Forbidden
-429 Too Many Requests
+
+429 Too Many 
+
 304 Not Modified
+
