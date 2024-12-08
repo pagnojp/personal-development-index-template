@@ -12,14 +12,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/pagnojp/personal-development-index-template/tree/main/courses/cs50-introduction-to-cybersecurity">[Course] CS50’s Introduction to Cybersecurity</a> (x%)
+        <a href="https://github.com/pagnojp/personal-development-index-template/tree/main/courses/cs50-introduction-to-cybersecurity">[Course] CS50’s Introduction to Cybersecurity</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 2024-11-16
         </li>
         <li>
-          Finished: -
+          Finished: 2024-12-08
         </li>
       </ul>
       </details>
